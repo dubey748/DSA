@@ -14,4 +14,4 @@ const findMaxChar = (ch) => {
   return maxchar;
 };
 
-console.log(findMaxChar("I loveeeeeeeeeeeeeeeeee youuuuuuuuuuuuuuu"));
+console.log(findMaxChar("I loveeeeeeeeeeeeeeeeee youuuuuu"));
